@@ -17,7 +17,7 @@ export default function OutStory({ state, actions }) {
               ennui. Fam fixie subway tile kale chips.
             </p>
             <div class="quote">
-              "The best steak in thw town Huntington"-{' '}
+              "The best steak in the town Huntington"-{' '}
               <div class="strong">Thomas Eggsy</div>
             </div>
             <a href="#" class="reserve-btn">
